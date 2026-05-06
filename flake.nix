@@ -1,7 +1,7 @@
 {
   inputs.flake-utils.url = "github:numtide/flake-utils";
   inputs.liminix = {
-    url = "github:pcc/liminix/flake-demo";
+    url = "github:telent/liminix";
     flake = false;
   };
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";

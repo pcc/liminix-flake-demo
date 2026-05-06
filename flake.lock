@@ -21,16 +21,15 @@
     "liminix": {
       "flake": false,
       "locked": {
-        "lastModified": 1777797515,
-        "narHash": "sha256-+KLeOq5i2R22p73p41LTrb5hjSe7EckU0G3De7DUCXo=",
-        "owner": "pcc",
+        "lastModified": 1778010700,
+        "narHash": "sha256-HoqzegxK6AxsYNRt9/jInguzFulo+Qo6kj69qgEOS10=",
+        "owner": "telent",
         "repo": "liminix",
-        "rev": "b7876271eada70f068d37ce221057343c9168b79",
+        "rev": "7e5d1ccf67064302d33da17e376b130bd744e4e2",
         "type": "github"
       },
       "original": {
-        "owner": "pcc",
-        "ref": "flake-demo",
+        "owner": "telent",
         "repo": "liminix",
         "type": "github"
       }
